@@ -1,0 +1,13 @@
+{
+	"server_api_urls":["new_bot_registration_request/",
+						"access_to_message_api/",
+						"send_message/",
+						"get_last_message/"
+					],
+
+	"server_url":"http://IP[:PORT]/",
+	"access_token":"",
+	"access_to_message_api":false,
+	"botname":""
+
+}
